@@ -7,8 +7,7 @@ void IloveYou(int x) {
         return;
     }
     while(x--)
-        cout << "I love you ta3deelaaaa <333333" << endl;
-        cout << "Hegab";
+        cout << "I love you <333333" << endl;
 }
 void unusedfunction(int x) {
     cout << "hii" << endl;
