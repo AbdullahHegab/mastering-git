@@ -14,5 +14,7 @@ void unusedfunction(int x) {
 }
 int main(){
     IloveYou(1e6);
+
+    cout << "HIIII" << endl;
     cout << "de7kkkk" << endl;
 }
