@@ -13,7 +13,6 @@ void unusedfunction(int x) {
     cout << "hii" << endl;
 }
 int main(){
-    cout << "eqaggfsasdfafdsadsfadsfasdfadfgadsfghjkfadsdfddssdsdfadsfq" << endl;
-    cout << "ezayak ya bro" << endl;
     IloveYou(1e6);
+    cout << "de7kkkk" << endl;
 }
