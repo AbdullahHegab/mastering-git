@@ -3,7 +3,7 @@ using namespace std;
 
 void IloveYou(int x) {
     if(x < 0) {
-        cout << "HELLO" << endl;
+        cout << "HELLOOOOOOOOOOOO" << endl;
         return;
     }
     while(x--)
@@ -15,6 +15,6 @@ void unusedfunction(int x) {
 int main(){
     IloveYou(1e6);
 
-    cout << "HIIII" << endl;
-    cout << "de7kkkk" << endl;
+    cout << "HIIIIi" << endl;
+    cout << "de7kkkkK" << endl;
 }
