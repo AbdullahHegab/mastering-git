@@ -3,7 +3,7 @@ using namespace std;
 
 void IloveYou(int x) {
     if(x < 0) {
-        cout << "FUCK YYYsadffdsYSS BITCH" << endl;
+        cout << "FUCK YYYsadffdsYSS BITCH taghyeer" << endl;
         return;
     }
     while(x--)
