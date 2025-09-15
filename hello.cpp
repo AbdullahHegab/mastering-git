@@ -3,13 +3,13 @@ using namespace std;
 
 void IloveYou(int x) {
     if(x < 0) {
-        cout << "FUCK YOUUU BITCH" << endl;
+        cout << "FUCK YYYYSS BITCH" << endl;
         return;
     }
     while(x--)
         cout << "I love you <3" << endl;
 }
 int main(){
-    cout << "eqaggfasdaasdfasdfddssdq";
+    cout << "eqaggfsdfddssdq";
     IloveYou(1e6);
 }
