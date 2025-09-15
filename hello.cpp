@@ -3,11 +3,11 @@ using namespace std;
 
 void IloveYou(int x) {
     if(x < 0) {
-        cout << "FUCK YYYsadffdsYSS BITCH msh ba7eb 7egab" << endl;
+        cout << "HELLO" << endl;
         return;
     }
     while(x--)
-        cout << "I love you <3" << endl;
+        cout << "I love you <333333" << endl;
 }
 void unusedfunction(int x) {
     cout << "hii" << endl;
