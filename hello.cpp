@@ -7,7 +7,7 @@ void IloveYou(int x) {
         return;
     }
     while(x--)
-        cout << "I love you <3" << endl;
+        cout << "I love you <333333" << endl;
 }
 int main(){
     cout << "eqaggfasdaasdfasdfddssdq";
